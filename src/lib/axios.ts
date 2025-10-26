@@ -1,4 +1,4 @@
-import axios, { AxiosError, AxiosRequestConfig } from 'axios'
+import axios, { AxiosError, type AxiosRequestConfig } from 'axios'
 import { supabase } from '../config/supabase'
 
 // Create axios instance

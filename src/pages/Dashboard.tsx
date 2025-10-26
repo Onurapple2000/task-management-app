@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from 'react'
-import { Box, Typography, Fab } from '@mui/material'
-import { Add as AddIcon } from '@mui/icons-material'
+import { Box, Typography } from '@mui/material'
 import { useTasks } from '../hooks/useTasks'
 import { useSprints } from '../hooks/useSprints'
 import SprintList from '../components/SprintList'

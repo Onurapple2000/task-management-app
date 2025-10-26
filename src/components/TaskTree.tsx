@@ -21,8 +21,6 @@ import {
   Edit as EditIcon,
   Delete as DeleteIcon,
   Add as AddIcon,
-  ExpandMore as ExpandMoreIcon,
-  ChevronRight as ChevronRightIcon,
 } from '@mui/icons-material'
 import { useTasks } from '../hooks/useTasks'
 import TaskForm from './TaskForm'
